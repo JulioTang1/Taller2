@@ -1,0 +1,16 @@
+h2{
+    text-align: center;
+}
+
+#lista{
+    font-family: arial, sans-serif;
+}
+
+.eliminar{
+    padding-left: 20px;
+}
+
+.card-header h4{
+    text-align: center;
+    color: white;
+}
